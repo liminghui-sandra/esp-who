@@ -4,7 +4,7 @@
 
 ## What You Need
 
-* 1 × ESP-EYE V2.1 board
+* 1 × ESP-EYE V2.1 board +1
 * 1 × Micro USB cable
 * 1 × PC with Windows, Linux or Mac OS
 
